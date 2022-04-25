@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AkbarAli-coder/AkbarAli-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
-- 🔭 I’m currently working on Laravel 
+- 🔭 &nbsp; I’m currently working on Laravel 
 - 🔭 &nbsp; I’m currently learning React JS
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Back-end web developer.
